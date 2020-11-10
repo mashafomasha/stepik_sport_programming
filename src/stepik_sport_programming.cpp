@@ -1,7 +1,7 @@
 #include <iostream>
-#include "./2_brute_force/2_9_1_bf.h"
+#include "./2_brute_force/2_9_2_bf.h"
 
-using namespace std;
+using namespace brute_force_2;
 
 int main() {
 	brute();
